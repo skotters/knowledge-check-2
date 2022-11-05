@@ -8,6 +8,6 @@ namespace KnowledgeCheck2
 {
     internal class Hatchback : Automobile
     {
-
+        public string Model { get; set; }
     }
 }
